@@ -1,6 +1,6 @@
- - ÀûÓÃscrapyÅÀÈ¡²®ÀÖÔÚÏß(http://www.jobbole.com/)ÏÂµÄÎÄÕÂÄÚÈÝ£¬²¢ÇÒ´æÈë±¾µØµÄmysqlÊý¾Ý¿âÖÐ¡£
+ - åˆ©ç”¨scrapyçˆ¬å–[ä¼¯ä¹åœ¨çº¿](http://www.jobbole.com/)ä¸‹çš„æ–‡ç« å†…å®¹ï¼Œå¹¶ä¸”å­˜å…¥æœ¬åœ°çš„mysqlæ•°æ®åº“ä¸­ã€‚
 
- - ´´½¨spiderÊý¾Ý¿â£¬²¢´´½¨Ïà¹Ø½á¹¹±í£º
+ - åˆ›å»ºspideræ•°æ®åº“ï¼Œå¹¶åˆ›å»ºç›¸å…³ç»“æž„è¡¨ï¼š
 ```
 SET FOREIGN_KEY_CHECKS=0;
 
@@ -27,4 +27,4 @@ SET FOREIGN_KEY_CHECKS=1;
 
 
 
- - ÐÞ¸ÄsettingsÏÂµÄÏà¹ØÊý¾Ý¿âÅäÖÃ£¬¼´¿ÉÔËÐÐmainº¯Êý½øÐÐÅÀÈ¡±£´æ¡£
+ - ä¿®æ”¹settingsä¸‹çš„ç›¸å…³æ•°æ®åº“é…ç½®ï¼Œå³å¯è¿è¡Œmainå‡½æ•°è¿›è¡Œçˆ¬å–ä¿å­˜ã€‚
